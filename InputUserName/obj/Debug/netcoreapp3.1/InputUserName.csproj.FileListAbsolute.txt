@@ -1,0 +1,13 @@
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\obj\Debug\netcoreapp3.1\InputUserName.csprojAssemblyReference.cache
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\obj\Debug\netcoreapp3.1\InputUserName.AssemblyInfoInputs.cache
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\obj\Debug\netcoreapp3.1\InputUserName.AssemblyInfo.cs
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\obj\Debug\netcoreapp3.1\InputUserName.csproj.CoreCompileInputs.cache
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\bin\Debug\netcoreapp3.1\InputUserName.exe
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\bin\Debug\netcoreapp3.1\InputUserName.deps.json
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\bin\Debug\netcoreapp3.1\InputUserName.runtimeconfig.json
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\bin\Debug\netcoreapp3.1\InputUserName.runtimeconfig.dev.json
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\bin\Debug\netcoreapp3.1\InputUserName.dll
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\bin\Debug\netcoreapp3.1\InputUserName.pdb
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\obj\Debug\netcoreapp3.1\InputUserName.dll
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\obj\Debug\netcoreapp3.1\InputUserName.pdb
+D:\Обучение c#\InputUserName\InputUserName\InputUserName\obj\Debug\netcoreapp3.1\InputUserName.genruntimeconfig.cache
