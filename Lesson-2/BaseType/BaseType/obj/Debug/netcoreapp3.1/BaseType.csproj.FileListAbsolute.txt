@@ -1,0 +1,13 @@
+D:\Обучение c#\Lesson-2\BaseType\BaseType\bin\Debug\netcoreapp3.1\BaseType.exe
+D:\Обучение c#\Lesson-2\BaseType\BaseType\bin\Debug\netcoreapp3.1\BaseType.deps.json
+D:\Обучение c#\Lesson-2\BaseType\BaseType\bin\Debug\netcoreapp3.1\BaseType.runtimeconfig.json
+D:\Обучение c#\Lesson-2\BaseType\BaseType\bin\Debug\netcoreapp3.1\BaseType.runtimeconfig.dev.json
+D:\Обучение c#\Lesson-2\BaseType\BaseType\bin\Debug\netcoreapp3.1\BaseType.dll
+D:\Обучение c#\Lesson-2\BaseType\BaseType\bin\Debug\netcoreapp3.1\BaseType.pdb
+D:\Обучение c#\Lesson-2\BaseType\BaseType\obj\Debug\netcoreapp3.1\BaseType.csprojAssemblyReference.cache
+D:\Обучение c#\Lesson-2\BaseType\BaseType\obj\Debug\netcoreapp3.1\BaseType.AssemblyInfoInputs.cache
+D:\Обучение c#\Lesson-2\BaseType\BaseType\obj\Debug\netcoreapp3.1\BaseType.AssemblyInfo.cs
+D:\Обучение c#\Lesson-2\BaseType\BaseType\obj\Debug\netcoreapp3.1\BaseType.csproj.CoreCompileInputs.cache
+D:\Обучение c#\Lesson-2\BaseType\BaseType\obj\Debug\netcoreapp3.1\BaseType.dll
+D:\Обучение c#\Lesson-2\BaseType\BaseType\obj\Debug\netcoreapp3.1\BaseType.pdb
+D:\Обучение c#\Lesson-2\BaseType\BaseType\obj\Debug\netcoreapp3.1\BaseType.genruntimeconfig.cache
